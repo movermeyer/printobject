@@ -7,7 +7,7 @@ printobject
 .. image:: https://travis-ci.org/numerodix/printobject.png?branch=master
     :target: https://travis-ci.org/numerodix/printobject
 
-.. image:: https://pypip.in/license/printobject/badge.png
+.. image:: https://img.shields.io/pypi/l/printobject.svg
         :target: https://pypi.python.org/pypi/printobject/
 
 
